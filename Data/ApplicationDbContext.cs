@@ -20,4 +20,9 @@ namespace Rocky.Data
 
     }
 
+    public class GoodBy
+    {
+
+    }
+
 }
